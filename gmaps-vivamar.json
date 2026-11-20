@@ -1,0 +1,7 @@
+{
+    "versao":  "0.38.7",
+    "url":  "https://github.com/gabrielcicerogoias2015/gtech-atualizacoes/releases/download/gmaps-vivamar-0.38.7/GMaps-Setup-0.38.7-Vivamar.exe",
+    "sha256":  "3fdc780ab635f310892c72489fa727726db757d5c7eb2c50e246f4144ae8320b",
+    "tamanho":  164009408,
+    "notas":  "Primeira versao com aviso de atualizacao: daqui em diante o GMaps avisa quando houver versao nova e pergunta antes de instalar. Inclui as melhorias dos trajetos (inserir ponto, excluir linha, rota sem cortar canteiro, ruas extras ligadas no meio)."
+}
