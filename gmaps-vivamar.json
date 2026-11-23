@@ -1,7 +1,7 @@
 {
-    "versao":  "0.38.7",
-    "url":  "https://github.com/gabrielcicerogoias2015/gtech-atualizacoes/releases/download/gmaps-vivamar-0.38.7/GMaps-Setup-0.38.7-Vivamar.exe",
-    "sha256":  "3fdc780ab635f310892c72489fa727726db757d5c7eb2c50e246f4144ae8320b",
-    "tamanho":  164009408,
-    "notas":  ""
+    "versao":  "0.39.1",
+    "url":  "https://github.com/gabrielcicerogoias2015/gtech-atualizacoes/releases/download/gmaps-vivamar-0.39.1/GMaps-Setup-0.39.1-Vivamar.exe",
+    "sha256":  "7d85fa0345f73b6abb49b8f56b5f24b1d3c7030f9bcc6de9afa4c8120232b85a",
+    "tamanho":  163218880,
+    "notas":  "Editor de caminhos de carro e pedestre. Agora da para editar numero, descricao e tipo da linha, e escolher o tipo ao criar."
 }
