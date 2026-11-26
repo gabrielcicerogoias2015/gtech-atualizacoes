@@ -1,7 +1,7 @@
 {
-    "versao":  "0.39.1",
-    "url":  "https://github.com/gabrielcicerogoias2015/gtech-atualizacoes/releases/download/gmaps-vivamar-0.39.1/GMaps-Setup-0.39.1-Vivamar.exe",
-    "sha256":  "7d85fa0345f73b6abb49b8f56b5f24b1d3c7030f9bcc6de9afa4c8120232b85a",
-    "tamanho":  163218880,
-    "notas":  "Editor de caminhos de carro e pedestre. Agora da para editar numero, descricao e tipo da linha, e escolher o tipo ao criar."
+    "versao":  "0.40.0",
+    "url":  "https://github.com/gabrielcicerogoias2015/gtech-atualizacoes/releases/download/gmaps-vivamar-0.40.0/GMaps-Setup-0.40.0-Vivamar.exe",
+    "sha256":  "f31af93dd5e6f54ed9c160faf573398ea5f350aa532e4a21fff2689211b12899",
+    "tamanho":  168231360,
+    "notas":  "Botao novo \u0027Atualizar mapas\u0027: gera de novo o mapa grandao (fundo do Mapa 2D e dos Trajetos) e redesenha o radar do HUD so nos blocos da area que voce mudou, num mod proprio do ModLoader (com backup; so grava com o GTA fechado). O radar automatico ainda e uma primeira versao."
 }
